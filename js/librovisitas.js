@@ -1,0 +1,1 @@
+alert("hello Edith");// JavaScript Document
